@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Ayur Prakriti Analyzer",
+  "description": "Professional Ayurvedic constitution analysis using camera-based anatomical scanning and classical diagnostic questionnaires.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
